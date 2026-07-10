@@ -58,4 +58,5 @@ Show Image
   <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories and reach out.</i></p>
+<p align="center">
+  <i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories and reach out.</i></p>
