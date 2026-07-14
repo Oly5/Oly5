@@ -19,7 +19,7 @@
 🛠️ Tech Stack
 
 Frontend
-<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)" />
+<img src="[[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://camo.githubusercontent.com/18f8a526265952d1a4ed04eff457c936721e64e5bf4e3f35cca938efe3f30de5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)" />
 
 <p align="center">
   <img src="[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165"](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)/>
